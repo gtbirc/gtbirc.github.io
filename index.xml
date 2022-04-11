@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on GTBIRC</title>
+    <link>/</link>
+    <description>Recent content in Home on GTBIRC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Join Us!</title>
+      <link>/join-us/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>/join-us/</guid>
+      <description>\
+Come Join Us!   GTBIRC a unit to enhance 21st century innovation &amp;amp; research in the college is inviting young talented and dynamic minds for the formation of Students Research Team.
+  Interested students who want to be part of core and research team can come forward and fill the form attached on the link given below.
+  https://forms.gle/iZH4pBn6WUtQbgYK8</description>
+    </item>
+    
+    <item>
+      <title>Objectives</title>
+      <link>/objectives/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>/objectives/</guid>
+      <description>\
+Objectives of GTBIRC:  Motivate and facilitate students and faculty for research and publication in reputed journals and conferences. Formulating and preparing project proposals for arranging funds from various funding agencies like AICTE, DST etc. Organizing conferences, FDPs, workshops, expert talks from eminent professors and researchers and career oriented seminars and other Technical events for students/faculty. For latest research and technology exposure. Arranging visits to reputed organizations like IITs, NITs, NPL, CSIR, CSIO, DRDO, AIIMS, and IIM and other research centers and industries.</description>
+    </item>
+    
+  </channel>
+</rss>
